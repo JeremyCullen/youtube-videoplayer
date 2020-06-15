@@ -5,4 +5,9 @@ img {
     margin: 8px 0 0 20px;
     padding: 4px;
   }
-  
+ 
+  .thumbnail-space {
+    float: top;
+    height: 33.33%;
+    padding: 5px;
+  }  
