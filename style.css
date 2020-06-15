@@ -1,13 +1,33 @@
-img {
+.thumbnail {
     background: #eaeaed;
     border: 1px solid #9799a7;
     float: right;
-    margin: 8px 0 0 20px;
+    margin: 8px 0 0 8px;
     padding: 4px;
   }
  
   .thumbnail-space {
     float: top;
-    height: 33.33%;
+    height: 20%;
     padding: 5px;
   }  
+
+  .thumbnail-top-space {
+    float: top;
+    margin: 10px 0 0 0;
+    height: 20%;
+    padding: 5px;
+  }  
+
+  header {
+    background: #eaeaed;
+    border: 1px solid #9799a7;
+    float: top;
+    margin: 8px 8px 8px 8px;
+    padding: 4px;
+    height: 50px;
+  }
+
+  #header-logo {
+    height: 70px
+  }
